@@ -12,6 +12,9 @@ This Dataset is associated with the Research Work titled "A Transformer Based Ap
 ACM Transaction on Asian and Low-Resource Language Information Processing (ACM-TALLIP) Journal by Arkadipta De, Dibyanayan Bandyopadhyay,
 Baban Gain and Asif Ekbal in a joint research work from IIT Hyderabad and IIT Patna.
 
+# Research Paper Link
+To be updated soon.
+
 # Contents:
 1) English Version of Dataset (Train and Test)
 2) Hindi Version of Dataset (Train and Test)
