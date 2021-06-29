@@ -11,6 +11,8 @@ Multilingual Fake News Dataset created for the research paper "A Transformer Bas
 This Dataset is associated with the Research Work titled "A Transformer Based Approach to Multilingual Fake News Detection" published in 
 ACM Transaction on Asian and Low-Resource Language Information Processing (ACM-TALLIP) Journal by Arkadipta De, Dibyanayan Bandyopadhyay,
 Baban Gain and Asif Ekbal in a joint research work from IIT Hyderabad and IIT Patna. 
+
+# Dataset Link
 The dataset is available in the link: http://www.iitp.ac.in/~ai-nlp-ml/resources/data/TALLIP-FakeNews-Dataset.zip
 
 # Research Paper Link
