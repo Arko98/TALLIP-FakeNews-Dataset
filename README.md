@@ -16,7 +16,7 @@ Baban Gain and Asif Ekbal in a joint research work from IIT Hyderabad and IIT Pa
 The dataset is available in the link: http://www.iitp.ac.in/~ai-nlp-ml/resources/data/TALLIP-FakeNews-Dataset.zip
 
 # Research Paper Link
-To be updated soon.
+The paper can be found at: https://dl.acm.org/doi/abs/10.1145/3472619
 
 # Contents:
 1) English Version of Dataset (Train and Test)
